@@ -1,8 +1,8 @@
 <template>
   <section class="container">
     <div class="post__header">
-      <h1></h1>
-      <p></p>
+      <h1>Blog</h1>
+      <p>Listado de posts</p>
     </div>
     <ul class="posts__list">
       <li v-for="post in data">
