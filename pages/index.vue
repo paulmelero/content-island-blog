@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div class="post__header">
-      <h1></h1>
+      <h1>Blog</h1>
       <p></p>
     </div>
     <ul class="posts__list">
