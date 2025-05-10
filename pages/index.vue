@@ -2,7 +2,7 @@
   <section class="container">
     <div class="post__header">
       <h1>Blog</h1>
-      <p></p>
+      <p>Listado de post</p>
     </div>
     <ul class="posts__list">
       <li v-for="post in data">
